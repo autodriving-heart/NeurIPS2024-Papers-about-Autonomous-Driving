@@ -1,5 +1,15 @@
 # NeurIPS2024-Papers-about-Autonomous-Driving
 
+## End to End Autonomous Driving
+
+**Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving**
+
+- paper: https://arxiv.org/pdf/2406.03877
+- code: https://github.com/Thinklab-SJTU/Bench2Drive
+
+
+
+
 ## 3D Object Detection
 
 
