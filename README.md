@@ -42,6 +42,15 @@
 
 
 
+## LLM
+
+**Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving**
+
+- paper: https://arxiv.org/pdf/2405.15324
+- code: https://github.com/PJLab-ADG/LeapAD
+
+
+
 ## Multi Model
 
 
@@ -52,7 +61,10 @@
 
 ## OCC
 
+**RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar**
 
+- paper: https://arxiv.org/pdf/2405.14014
+- code: https://github.com/Toytiny/RadarOcc/
 
 ##  Cooperative Perception
 
@@ -72,6 +84,11 @@
 
 
 ## NeRF
+
+**NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fieldsfor Point Cloud Interpolation**
+
+- paper: https://arxiv.org/pdf/2405.14241
+- code: https://github.com/jiangchaokang/NeuroGauss4D-PCI
 
 
 
